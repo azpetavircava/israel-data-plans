@@ -56,3 +56,10 @@ layout: default
 
 　　最后，无论你选择哪种方式，都建议提前那么一点点规划。毕竟，在异国他乡，一个可靠的网络连接就是你最重要的数字生命线，它能给你导航、翻译，还能在想家时立刻视频通话。祝你2025年在以色列的旅程，一路在线，畅通无阻。
 　　<<<END_ARTICLE
+
+<!-- crosslink -->
+---
+
+## 相关指南
+
+- [Israel SIM 卡购买与激活指南](https://faciylike.github.io/israel-sim-guides)
